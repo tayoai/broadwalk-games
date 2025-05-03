@@ -3,11 +3,10 @@
 /* macondo import */
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:wght@100;300;400;700&family=Macondo&family=Oswald:wght@200..700&display=swap');
 
-
-body {
-    font-family: "Inter", sans-serif;
+/* CSS variables */
+:root {
+    --primary-font: 'Inter', sans-serif;
+    --secondary-font: 'Macondo', sans-serif;
+    --primary-color: blue;
 }
 
-h1 {
-    font-family: "Macondo", sans-serif;
-}
