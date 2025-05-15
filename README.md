@@ -4,4 +4,4 @@
 2. sign up form
 
 **How to view**
-###Credits
+### Credits
